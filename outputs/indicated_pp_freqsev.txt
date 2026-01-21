@@ -1,0 +1,4 @@
+Indicated Pure Premium (Frequency-Severity GLM): 1.8143883
+Frequency: Poisson(log) with offset(log(exposure))
+Severity: Gamma(log) on positive claims
+Data: insuranceData::ClaimsLong
